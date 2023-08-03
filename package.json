@@ -1,10 +1,10 @@
 {
-  "name": "terminal-in-react",
-  "version": "4.3.1",
+  "name": "@unional/terminal-in-react",
+  "version": "4.3.2",
   "description": "A component for making a terminal in React",
   "main": "lib/js/index.js",
   "module": "src/index.js",
-  "repository": "https://www.github.com/nitin42/terminal-in-react",
+  "repository": "https://www.github.com/unional/terminal-in-react",
   "author": "Nitin Tulswani",
   "license": "MIT",
   "files": [

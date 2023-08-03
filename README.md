@@ -1,4 +1,5 @@
 # Terminal in React
+
 [![Downloads][npm-dm]][package-url]
 [![Downloads][npm-dt]][package-url]
 [![NPM Version][npm-v]][package-url]
@@ -13,6 +14,11 @@
 </p>
 
 > A component that renders a terminal
+
+NOTE: this is a fork of [terminal-in-react](https://github.com/nitin42/terminal-in-react).
+
+The objective of this fork is to fix some key bugs and improve the typings definition.
+
 
 ## Table of contents
 
